@@ -1,0 +1,8 @@
+dist/**
+internal/**
+MAPPING.md
+PROJECT.md
+linear.json
+words.txt
+urls.txt
+urls.json

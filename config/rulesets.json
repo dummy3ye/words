@@ -1,0 +1,6 @@
+{
+  "max_words_per_line": 100,
+  "sort_alphabetical": true,
+  "one_letter_per_line": true,
+  "split_overflow": true
+}

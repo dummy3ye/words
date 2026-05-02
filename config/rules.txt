@@ -1,0 +1,5 @@
+1. Each line must contain a maximum of 100 words.
+2. All words in a line must be in alphabetical order.
+3. Each line can only contain words that start with the same letter.
+4. If more than 100 words exist for a single letter, they must be split across multiple lines (100 words per line until exhausted).
+5. Once all words for a letter are processed, move to the next letter in alphabetical order.
