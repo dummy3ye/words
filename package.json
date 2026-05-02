@@ -1,5 +1,13 @@
 {
   "name": "thewords",
   "version": "1.0.0",
-  "type": "commonjs"
+  "description": "Multi-URL word scraper and alphabetizer",
+  "main": "src/urls.js",
+  "type": "commonjs",
+  "scripts": {
+    "sync": "node src/urls.js",
+    "start": "python run.py"
+  },
+  "author": "",
+  "license": "ISC"
 }
