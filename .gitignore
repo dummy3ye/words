@@ -1,11 +1,15 @@
-dist/
-internal/
-dump.txt
-semi.txt
+dist/words.txt
+dist/linear.txt
+
+internal/dump.txt
+internal/semi.txt
+
 *.pyc
 __pycache__/
+
 .env
 node_modules/
+
 # dont change
 urls.json
 urls.txt
